@@ -10,6 +10,9 @@ Flight number - ??
 
 ![image](https://github.com/alowry721/August2024/assets/18517196/958efc6c-6230-4fd2-9a7f-11f8a2e7a075)
 
+![image](https://github.com/alowry721/August2024/assets/18517196/506e1a27-75d0-4ca8-84d1-208c62cefdac)
+
+
 ### Day 1 - McGregor Mountain
 Park at either Cow Creek or Lumpy Ridge Trailhead
 5 mile hike to first campsite - [Mcgregor Mountain](https://www.nps.gov/romo/planyourvisit/mcgregor-mountain.htm)
@@ -17,4 +20,7 @@ Park at either Cow Creek or Lumpy Ridge Trailhead
 ### Day 2 Lower Tileston
 ~3 mile hike from Mcgregor Mountain to [Lower Tileston](https://www.nps.gov/romo/planyourvisit/lower-tileston-meadows.htm)
 
+Can probably set up camp and continue to Mummy Range
+
 ### Day 3 Hike back to Trailhead
+8-9 Miles easy breezy downhill
