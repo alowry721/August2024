@@ -1,11 +1,9 @@
 # Colorado
 
-## 8/28
-
-### Remote Work from Denver
+## 8/26 - 8/28 - Remote Work from Denver
 Find Coffee shop or something
 
-### Sarah Arrives
+## 8/28 - Sarah Arrives
 
 ![image](https://github.com/alowry721/August2024/assets/18517196/34c87912-ba00-40f9-ad2c-249610b5a0c3)
 
@@ -32,3 +30,8 @@ Can probably set up camp and continue to Mummy Range.  Google image search looks
 
 ### Day 3 Hike back to Trailhead
 8-9 Miles easy breezy downhill
+
+## 8/31 - 9/1 - Denver/Estes for the night
+
+## 9/1 - Sarah Departs
+
