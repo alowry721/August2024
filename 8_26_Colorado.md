@@ -34,7 +34,9 @@ Can probably set up camp and continue to Mummy Range.  Google image search looks
 
 ## 8/31 - 9/1 - Denver/Estes for the night
 
-## 9/1 - Sarah Departs
+## 9/1 9:55 a.m. - Sarah Departs 
 
 ## 9/1 - 9/2 - Night in Panhandle
 Book AirBnb or Campsite
+
+## 9/2 - Home Sweet Home
