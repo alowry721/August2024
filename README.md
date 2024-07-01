@@ -6,3 +6,5 @@ All things regarding my adventures in August 2024
 8/19 - 8/23 - [Idaho](Idaho.md)
 
 8/23 - 9/1 - [Colorado](Colorado.md)
+
+![image](https://github.com/alowry721/August2024/assets/18517196/29ffac97-5b44-4af2-af39-7041da1fdfde)
