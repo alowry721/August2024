@@ -1,4 +1,4 @@
-# Super Epic Awesome Road Trip - August 2024
+# Super Epic Road Trip - August 2024
 All things regarding my adventures in August 2024
 
 * [8/6 - 8/19 - Montana](8_6_Montana.md)
