@@ -2,6 +2,7 @@
 
 ## 8/26 - 8/28 - Remote Work from Denver
 Find Coffee shop or something
+[] Book Airbnb or campsite closeby 
 
 ## 8/28 - Sarah Arrives
 
@@ -36,3 +37,4 @@ Can probably set up camp and continue to Mummy Range.  Google image search looks
 ## 9/1 - Sarah Departs
 
 ## 9/1 - 9/2 - Night in Panhandle
+Book AirBnb or Campsite
