@@ -23,7 +23,7 @@ Park at either Cow Creek or Lumpy Ridge Trailhead
 ### Day 2 Lower Tileston
 ~3 mile hike from Mcgregor Mountain to [Lower Tileston](https://www.nps.gov/romo/planyourvisit/lower-tileston-meadows.htm)
 
-Can probably set up camp and continue to Mummy Range
+Can probably set up camp and continue to Mummy Range.  Google image search looks 🤩
 
 ### Day 3 Hike back to Trailhead
 8-9 Miles easy breezy downhill
