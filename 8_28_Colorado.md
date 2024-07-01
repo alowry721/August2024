@@ -35,3 +35,4 @@ Can probably set up camp and continue to Mummy Range.  Google image search looks
 
 ## 9/1 - Sarah Departs
 
+## 9/1 - 9/2 - Night in Panhandle
