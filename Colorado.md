@@ -8,8 +8,11 @@ Flight number - ??
 
 ## Rocky Mountain National Park
 
+### Site Reservations
 ![image](https://github.com/alowry721/August2024/assets/18517196/958efc6c-6230-4fd2-9a7f-11f8a2e7a075)
 
+### Map
+Take from the [following map](https://www.nps.gov/romo/planyourvisit/upload/campsite_map.pdf)
 ![image](https://github.com/alowry721/August2024/assets/18517196/506e1a27-75d0-4ca8-84d1-208c62cefdac)
 
 
