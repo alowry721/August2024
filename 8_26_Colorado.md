@@ -17,7 +17,7 @@ Flight number - ??
 
 ### Hiking Path
 Taken from the [following map](https://www.nps.gov/romo/planyourvisit/upload/campsite_map.pdf)
-![image](https://github.com/alowry721/August2024/assets/18517196/19ae9c4b-8dbb-4178-8ac3-8fbd94a00e87)
+![image](https://github.com/alowry721/August2024/assets/18517196/894fd44c-c4e0-442c-9732-d8813f396ab0)
 
 
 ### Day 1 - McGregor Mountain
