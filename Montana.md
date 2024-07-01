@@ -11,7 +11,7 @@ https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMA9
 James and Amanda’s Cabin - 625 Sloan Ln, West Glacier, MT 59936
 
 
-Plan out backpacking trip if you can
+[] Plan out backpacking trip for 8/10-8/12
 
 
 
