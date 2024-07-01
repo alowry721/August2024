@@ -1,6 +1,6 @@
 # Colorado
 
-## Sarah comes to Denver 8/28 - 9/1
+## Sarah's Travel Plans
 
 ![image](https://github.com/alowry721/August2024/assets/18517196/34c87912-ba00-40f9-ad2c-249610b5a0c3)
 
@@ -16,3 +16,5 @@ Park at either Cow Creek or Lumpy Ridge Trailhead
 
 ### Day 2 Lower Tileston
 ~3 mile hike from Mcgregor Mountain to [Lower Tileston](https://www.nps.gov/romo/planyourvisit/lower-tileston-meadows.htm)
+
+### Day 3 Hike back to Trailhead
