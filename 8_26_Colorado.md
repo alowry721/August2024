@@ -22,15 +22,27 @@ Taken from the [following map](https://www.nps.gov/romo/planyourvisit/upload/cam
 
 ### Day 1 - McGregor Mountain
 Park at either Cow Creek or Lumpy Ridge Trailhead
-5 mile hike to first campsite - [Mcgregor Mountain](https://www.nps.gov/romo/planyourvisit/mcgregor-mountain.htm)
+*Distance:* Approximately 5-6 miles.
+*Elevation Gain:* Around 2,500 feet.
+[Mcgregor Mountain](https://www.nps.gov/romo/planyourvisit/mcgregor-mountain.htm)
 
 ### Day 2 Lower Tileston
-~3 mile hike from Mcgregor Mountain to [Lower Tileston](https://www.nps.gov/romo/planyourvisit/lower-tileston-meadows.htm)
 
-Can probably set up camp and continue to Mummy Range.  Google image search looks 🤩
+#### From Mcgregor Mountain
+*Distance:* 5-6 miles.
+*Elevation Gain:* ~2,500 feet.
+[Lower Tileston](https://www.nps.gov/romo/planyourvisit/lower-tileston-meadows.htm)
+
+Set up camp and continue to Mummy Mountain.  Google image search looks 🤩
+
+
+### Lower Tileston to Mummy Mountain Summit and Back
+*Distance:* 8-10 miles round trip.
+*Elevation Gain:* ~4,500-5,000 feet.
+
 
 ### Day 3 Hike back to Trailhead
-8-9 Miles easy breezy downhill
+*Distance:* 8-9 Miles easy breezy downhill
 
 ## 8/31 - 9/1 - Denver/Estes for the night
 
