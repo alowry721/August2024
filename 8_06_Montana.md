@@ -30,10 +30,10 @@ James and Amanda’s Cabin - 625 Sloan Ln, West Glacier, MT 59936
 
 *Distance:*  10 miles
 
-## Day 3: Spar Lake to Pyramid Lake
+## Day 3: Spar Lake -> Pyramid Lake
 
 *Distance:* 8 miles
 
-## Day 4: Pyramid Lake to Trailhead
+## Day 4: Pyramid Lake -> Trailhead
 
 *Distance:* 8 miles
