@@ -38,6 +38,8 @@ Park at Lumpy Ridge Trailhead
 *Distance:* 8-10 miles round trip.
 *Elevation Gain:* ~4,500-5,000 feet.  Includes ascent and descent.
 
+No pressure to make it all the way to the summit.  Stunning views all along the way.
+
 ### Day 3 Lower Tileston -> Lumpy Ridge Trailhead
 *Distance:* 7.3 Miles easy breezy downhill
 
