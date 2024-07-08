@@ -22,3 +22,18 @@ James and Amanda’s Cabin - 625 Sloan Ln, West Glacier, MT 59936
 
 # 8/16 - 8/19 - Kootenai National Forest
 
+## Day 1 Ross Creek Cedars Trailhead -> Ross Creek Campground
+
+*Distance:*  6 miles
+
+## Day 2 Ross Creek Campground -> Spar Lake
+
+*Distance:*  10 miles
+
+## Day 3: Spar Lake to Pyramid Lake
+
+*Distance:* 8 miles
+
+## Day 4: Pyramid Lake to Trailhead
+
+*Distance:* 8 miles
