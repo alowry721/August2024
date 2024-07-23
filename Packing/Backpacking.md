@@ -1,9 +1,9 @@
 # Backpacking Pack List
 
 ## Campsite
--[] Tent
--[] Sleeping Bag
--[] Sleeping Pad
+-[ ] Tent
+-[ ] Sleeping Bag
+-[ ] Sleeping Pad
 
 ## Food
 [] Dry meals
