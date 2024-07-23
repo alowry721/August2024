@@ -6,9 +6,9 @@
 - [ ] Sleeping Pad
 
 ## Food
-[] Dry meals
-[] Ramen
-[] Tuna
-[] Stove
-[] Gas
-[] Water filter and bladder
+- [ ] Dry meals
+- [ ] Ramen
+- [ ] Tuna
+- [ ] Stove
+- [ ] Gas
+- [ ] Water filter and bladder
