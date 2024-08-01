@@ -1,5 +1,11 @@
+# 8/4 - 8/5 - Big Larch Campground
 
-# 8/6 - Ronan, MT
+[7 hour drive](https://maps.app.goo.gl/FaYre8HtA39RkCMC8)
+<img width="971" alt="image" src="https://github.com/user-attachments/assets/af853a19-9ffd-43a1-966c-fc81a1a0dcf0">
+
+# 8/5 - 8/6 - Hotel??
+
+# 8/6 - 8/8 - Ronan, MT
 
 
 https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMA9MHNQ4D
