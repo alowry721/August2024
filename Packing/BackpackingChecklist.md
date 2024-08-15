@@ -13,7 +13,7 @@ I put a star * next to things I'm bringing which can be shared
 
 ## Sleep 
 - Sleeping bag
-- pad
+- sleeping pad
 - bag liner
 - pillow
 
@@ -24,7 +24,8 @@ I put a star * next to things I'm bringing which can be shared
 - spoon
 - towel*
 - bear cannister (if required)*
-- food bag and rope for hanging (if no cannister)
+- food bag and rope for hanging (if no cannister)*
+- mug
 
 ## Clothes
   - at least two pairs socks (scale for multiple days)
@@ -53,7 +54,7 @@ I put a star * next to things I'm bringing which can be shared
   - cotton squares*
   - rubbing alcohol*
   - weed*
-  - anti-depressants*
+  - ssri pillz
 
 ## Repair
   - duct tape*
@@ -61,5 +62,5 @@ I put a star * next to things I'm bringing which can be shared
 
 ## Electronics
   - battery pack*
-  - headlamp
+  - headlamp(s)
   - phone with app/map downloaded*
