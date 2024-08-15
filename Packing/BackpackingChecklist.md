@@ -1,7 +1,8 @@
 # Backpacking Pack List
+I put a star * next to things I'm bringing which can be shared
 
 ## The outer stuff
-- Backpack
+- Backpack 
 - Rain cover
 - Trekking poles
 
@@ -17,12 +18,12 @@
 - pillow
 
 ## Kitchen
-- pltypus water filter and bladder
-- jetboiler
-- fuel
+- pltypus water filter and bladder*
+- jetboiler*
+- fuel*
 - spoon
-- towel
-- bear cannister (if required)
+- towel*
+- bear cannister (if required)*
 - food bag and rope for hanging (if no cannister)
 
 ## Clothes
@@ -37,28 +38,28 @@
   - trail shoes
 
 ## Hygiene
-  - trowel
-  - TP
-  - Hand sani
-  - sunscreen
+  - trowel*
+  - TP*
+  - Hand sani*
+  - sunscreen*
   - bug repellant
   - toothbrush
-  - toothpaste
+  - toothpaste*
 
 ## First AID
-  - band aids of various sizes
-  - leukotape
-  - neosporin
-  - cotton squares
-  - rubbing alcohol
-  - weed
-  - anti-depressants
+  - band aids of various sizes*
+  - leukotape*
+  - neosporin*
+  - cotton squares*
+  - rubbing alcohol*
+  - weed*
+  - anti-depressants*
 
 ## Repair
-  - duct tape
-  - patch kit
+  - duct tape*
+  - patch kit*
 
 ## Electronics
-  - battery pack
+  - battery pack*
   - headlamp
-  - phone with app/map downloaded
+  - phone with app/map downloaded*
