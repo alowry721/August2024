@@ -12,9 +12,7 @@ All things regarding my adventures in August 2024
 
 ## Packing
 
-* Clothes
-* Bathroom
-* Kitchen
-* Electronics
-* Backpacking
-* Glamping
+### Backpacking Checklists
+
+* [Ultimate Backpacking Checklist](Packing/BackpackingChecklist.md)
+* [Food](Packing/BackpackingFood.md)
