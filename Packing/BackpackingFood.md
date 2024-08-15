@@ -6,6 +6,7 @@ any/all of:
   - granola
   - oatmeal
   - freeze dried meal
+  - tea/coffee
 
 ## Midmorning 
 any/all of:
@@ -28,3 +29,4 @@ any/all of:
 ## Dinner
   - freeze dried meal
   - dessert - cookies/or something
+  - tea
